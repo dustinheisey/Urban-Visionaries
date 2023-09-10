@@ -1,0 +1,43 @@
+{
+  "name": "City Roots Foundation - Advancing Urban Sustainability",
+  "short_name": "City Roots",
+  "description": "City Roots Foundation is a dedicated organization aiming to improve urban sustainability. Through education, infrastructure development, and policy advocacy, we’re building a future where cities become greener and healthier.",
+  "theme_color": "#376a20",
+  "background_color": "#376a20",
+  "display": "fullscreen",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait",
+  "display_override": [
+    "window-control-overlay",
+    "fullscreen",
+    "standalone",
+    "browser"
+  ],
+  "icons": [
+    {
+      "src": "favicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "favicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
